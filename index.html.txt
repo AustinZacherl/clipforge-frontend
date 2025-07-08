@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ClipForge</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>ClipForge AI</h1>
+  <button onclick="handleSubmit()">Generate Title</button>
+  <script src="script.js"></script>
+</body>
+</html>
